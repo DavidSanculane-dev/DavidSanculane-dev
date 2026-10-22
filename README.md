@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm David Sanculane 👋
 
-<!--
-**DavidSanculane-dev/DavidSanculane-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full Stack Developer & IT Specialist** with over 15 years of solid experience in IT infrastructure, networking, and systems, heavily focused on the **.NET ecosystem (C#)** for the past 3 years. I specialize in building end-to-end digital solutions that automate processes and optimize business workflows.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+- **Backend:** C#, .NET Core, ASP.NET Core, Web API, Python
+- **Frontend:** React, JavaScript, HTML5, CSS3
+- **Databases:** SQL Server, MySQL, SQLite
+- **DevOps & Infra:** Microsoft Azure, Git, Docker, Network Routing & Switching
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Focus
+- Developing secure and scalable web applications.
+- Transitioning my standalone project experience into agile, team-oriented enterprise environments.
+- Enhancing cloud architecture integration.
+
+📬 **Connect with me on [LinkedIn](https://www.linkedin.com/in/david-sanculane-143b4141)**
